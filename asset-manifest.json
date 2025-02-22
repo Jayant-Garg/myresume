@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.376b7b64.css",
+    "main.js": "/static/js/main.32f457fb.js",
+    "static/js/453.422fe807.chunk.js": "/static/js/453.422fe807.chunk.js",
+    "static/media/heirloomhoney.png": "/static/media/heirloomhoney.50c29dc5914b98c6b994.png",
+    "static/media/breight.png": "/static/media/breight.25c18d68065b4a73316e.png",
+    "static/media/inbesta.png": "/static/media/inbesta.7bc1c3d29850425bea0f.png",
+    "static/media/myphoto.jpg": "/static/media/myphoto.fb209eff1245a636cd29.jpg",
+    "index.html": "/index.html",
+    "main.376b7b64.css.map": "/static/css/main.376b7b64.css.map",
+    "main.32f457fb.js.map": "/static/js/main.32f457fb.js.map",
+    "453.422fe807.chunk.js.map": "/static/js/453.422fe807.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.376b7b64.css",
+    "static/js/main.32f457fb.js"
+  ]
+}
